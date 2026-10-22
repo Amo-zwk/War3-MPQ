@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "file": "War3.mpq",
+      "size": 451831950,
+      "sha256": "0516a94a2b31ddbf63a305ee59c95e602eee817c1e7f4eb6d1968f522c74799c"
+    },
+    {
+      "file": "War3x.mpq",
+      "size": 356761476,
+      "sha256": "511889af46359e9c01dd421c1d61818f0d5ea320f016cd281ef22e68d8bbd5da"
+    },
+    {
+      "file": "War3xLocal.mpq",
+      "size": 100480115,
+      "sha256": "973f32a69d4f4587eb386b85cf4a672be2e86e78e06307a4023b9d695094f86e"
+    },
+    {
+      "file": "war3patch.mpq",
+      "size": 55646795,
+      "sha256": "873825f51ea7213e6a62a40f52967036d6f980411d1f7d76172febe12723b53f"
+    }
+  ],
+  "total_bytes": 964720336
+}
